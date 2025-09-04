@@ -33,6 +33,7 @@
 - **Abiola Ogunsola - [@OgunsolaAbiolaDaniel](https://github.com/OgunsolaAbiolaDaniel)** - Frontend Developer
 - **Umukoro Blessing Oghenekomeno- [@Blessingkeyz](https://github.com/blessingkeyz)** - Frontend Developer
 - **Zakari Adamu- [@Zakariadamu](https://github.com/zakariadamu)** - Frontend Developer
+- **Akinola Femi- [@famzy077](https://github.com/famzy077)** - Fullstack Developer
 
 ###
 
